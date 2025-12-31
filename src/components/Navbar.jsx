@@ -91,11 +91,12 @@ export default function Navbar(props) {
                     Admissions
                 </Link>
                 <ul className="dropdown-menu" aria-labelledby="servicesDropdown">
-                    <li><Link className="dropdown-item" to="/services/nursing">Eligibility Criteria</Link></li>
-                    <li><Link className="dropdown-item" to="/services/paramedical">Application Procss</Link></li>
-                    <li><Link className="dropdown-item" to="/services/ayurveda">Important Dates</Link></li>
-                    <li><Link className="dropdown-item" to="/services/ayurveda">Scholarships</Link></li>
+                    <li><Link className="dropdown-item" to="/eligibilitycriteria">Eligibility Criteria</Link></li>
+                    <li><Link className="dropdown-item" to="/applicationprocess">Application Process</Link></li>
+                    <li><Link className="dropdown-item" to="/important-dates">Important Dates</Link></li>
+                    <li><Link className="dropdown-item" to="/scholarships">Scholarships</Link></li>
                 </ul>
+                
                 </li>
 
                 <li className="nav-item dropdown">
