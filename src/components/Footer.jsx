@@ -27,7 +27,7 @@ export default function Footer() {
                         <div className="footer-item d-flex flex-column">
                             <h4 className="mb-4 text-white">Services</h4>
                             <a href=""><i className="fas fa-angle-right me-2"></i> All Services</a>
-                            <a href=""><i className="fas fa-angle-right me-2"></i> Physiotherapy</a>
+                            {/* <a href=""><i className="fas fa-angle-right me-2"></i> Physiotherapy</a> */}
                             <a href=""><i className="fas fa-angle-right me-2"></i> Diagnostics</a>
                             <a href=""><i className="fas fa-angle-right me-2"></i> Manual Therapy</a>
                             <a href=""><i className="fas fa-angle-right me-2"></i> Massage Therapy</a>
