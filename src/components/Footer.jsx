@@ -22,18 +22,19 @@ export default function Footer() {
                             <a href=""><i className="fas fa-angle-right me-2"></i> Our Team</a>
                         </div>
                     </div>
-                    
+                   
                     <div className="col-md-6 col-lg-6 col-xl-3">
                         <div className="footer-item d-flex flex-column">
-                            <h4 className="mb-4 text-white">Services</h4>
-                            <a href=""><i className="fas fa-angle-right me-2"></i> All Services</a>
-                            {/* <a href=""><i className="fas fa-angle-right me-2"></i> Physiotherapy</a> */}
+                            <h4 className="mb-4 text-white"></h4>
+                            {/* <a href=""><i className="fas fa-angle-right me-2"></i> All Services</a>
+                             <a href=""><i className="fas fa-angle-right me-2"></i> Physiotherapy</a> 
                             <a href=""><i className="fas fa-angle-right me-2"></i> Diagnostics</a>
                             <a href=""><i className="fas fa-angle-right me-2"></i> Manual Therapy</a>
                             <a href=""><i className="fas fa-angle-right me-2"></i> Massage Therapy</a>
-                            <a href=""><i className="fas fa-angle-right me-2"></i> Rehabilitation</a>
+                            <a href=""><i className="fas fa-angle-right me-2"></i> Rehabilitation</a> */}
                         </div>
                     </div>
+                     
                     <div className="col-md-6 col-lg-6 col-xl-4">
                         <div className="footer-item d-flex flex-column">
                             <h4 className="mb-4 text-white">Contact Info</h4>

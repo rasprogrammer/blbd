@@ -1,5 +1,5 @@
 import React from 'react'
-import carousel from './assets/service.jpg'
+// import carousel from './assets/service.jpg'
 
 import education from './assets/education.jpg'
 import department from './assets/department.jpg'
@@ -90,7 +90,7 @@ export default function Service() {
                        </div>
                         <div className="service-content rounded-bottom bg-light p-4">
                             <div className="service-content-inner">
-                                <h5 className="mb-4">Consultation OPD</h5>
+                                <h5 className="mb-4">Consultation</h5>
                                 <p className="mb-4">Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam</p>
                                 <a href="#" className="btn btn-success rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                             </div>
