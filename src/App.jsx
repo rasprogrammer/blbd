@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import './style.css';
 
 
+
 import Home from './components/Home';
 import Navbar from './components/Navbar';
 import Service from './components/Service';
